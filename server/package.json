@@ -1,0 +1,15 @@
+{
+  "name": "intercom-server",
+  "version": "1.0.0",
+  "description": "Intercom Server Program",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js <PORT>",
+    "start": "node server.js"
+  },
+  "author": "Simas Juknelis",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}

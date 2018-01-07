@@ -1,0 +1,14 @@
+{
+  "name": "intercom-client",
+  "version": "1.0.0",
+  "description": "Intercom Client Program",
+  "main": "client.js",
+  "scripts": {
+    "test": "node client.js <ADDRESS>"
+  },
+  "author": "Simas Juknelis",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
