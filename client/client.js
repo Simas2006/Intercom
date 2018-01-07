@@ -33,4 +33,4 @@ function checkNewMessage() {
   });
 }
 
-setInterval(checkNewMessage,1000);
+setInterval(checkNewMessage,7500);
