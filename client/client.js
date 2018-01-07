@@ -23,7 +23,7 @@ function checkNewMessage() {
         console.log("Server went offline! Aborted.");
         process.exit(1);
       } else {
-        throw err;
+        console.log(err);
       }
     }
     if ( activeID != body ) {
