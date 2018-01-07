@@ -1,5 +1,4 @@
 var fs = require("fs");
-var readlineSync = require("readline-sync");
 var {spawn} = require("child_process");
 var express = require("express");
 
