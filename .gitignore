@@ -1,4 +1,5 @@
 client/node_modules
 server/node_modules
 server/record_id.txt
+client/recording.wav
 server/recording.wav
